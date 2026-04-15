@@ -105,12 +105,18 @@ When contributing, please try to include:
 - Logs, packet captures, or screenshots where relevant
 - Clear reproduction steps
 
-## Suggested Repository Structure
+## Related Projects
 
-```text
-/docs               Documentation and protocol notes
-/android-app        Open source Android replacement app
-/tools              Utilities, patchers, parsers, converters
-/captures           Sanitized packet captures and analysis notes
-/maps               Open source map patching resources and instructions
-/firmware-notes     Observations only, no proprietary redistribution
+- **Android App Development**  
+  Open source Android app work for XIRO Xplorer compatibility.
+
+- **XIRO Assistant Map Patch**  
+  Tools and documentation for maintaining usability of legacy XIRO Assistant software.
+
+  ## License
+
+This repository is licensed under the **Apache License 2.0**.
+
+The license applies to original code and documentation contributed to this project only. It does not grant any rights to proprietary third-party software, firmware, trademarks, logos, or copyrighted assets.
+
+See the [LICENSE](LICENSE) file for the full license text.
