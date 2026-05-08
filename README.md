@@ -4,6 +4,10 @@ Open source tools and Android app development for XIRO Xplorer compatibility.
 
 An open source effort focused on helping preserve and extend the usability of the XIRO Xplorer drone ecosystem through community research, Android app development, protocol probing, and tooling support.
 
+XIRO Assistant Patch: https://github.com/LarryBoyG/XIRO_Assistant_Patch
+
+Android App: https://github.com/LarryBoyG/xplorer-android-app
+
 ## Overview
 
 The XIRO Xplorer line of drones remains interesting and useful hardware, but official software support has largely disappeared. This project exists to help keep those drones usable by documenting behavior, reverse engineering communication methods, and building replacement tools where possible.
